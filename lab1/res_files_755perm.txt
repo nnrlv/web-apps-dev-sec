@@ -1,0 +1,11 @@
+/
+/bin
+/cmd
+/dev
+/etc
+/git-bash.exe
+/git-cmd.exe
+/mingw64
+/tmp
+/unins000.exe
+/usr
