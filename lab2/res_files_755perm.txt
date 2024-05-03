@@ -1,0 +1,14 @@
+/
+/home
+/srv
+/etc
+/opt
+/lib
+/mnt
+/usr
+/media
+/dev
+/sbin
+/bin
+/run
+/var
